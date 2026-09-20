@@ -323,7 +323,6 @@ Process finished with exit code 0
 ### Uso de inteligencia artificial
 
 
-Sí utilicé IA (ChatGPT) como apoyo para resolver dudas de sintaxis y buenas prácticas:
-anotaciones de Jackson (`@JsonIgnoreProperties`), manejo de excepciones en `Main` y
-comandos de Git para crear la rama y hacer merge. La lógica de sincronización
-idempotente la implementé y probé yo mismo, y puedo explicar todo el código entregado.
+Se utilizó inteligencia artificial, específicamente ChatGPT, como herramienta de apoyo durante el desarrollo del proyecto para resolver dudas relacionadas con sintaxis, buenas prácticas de programación y el uso de anotaciones de Jackson, como @JsonIgnoreProperties. También se utilizó como referencia para el manejo de excepciones en la clase Main y para consultar comandos de Git relacionados con la creación de ramas y la realización de merges.
+
+La lógica de sincronización idempotente fue diseñada, implementada y probada por mí. Asimismo, revisé y comprendí el código utilizado durante el desarrollo, por lo que puedo explicar su funcionamiento y las decisiones tomadas en su implementación.
